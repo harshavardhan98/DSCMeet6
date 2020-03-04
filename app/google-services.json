@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "458739783013",
+    "firebase_url": "https://fireplay-ad015.firebaseio.com",
+    "project_id": "fireplay-ad015",
+    "storage_bucket": "fireplay-ad015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458739783013:android:08815081c31e47a2",
+        "android_client_info": {
+          "package_name": "in.cocomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458739783013-119nmv3ci592kj1hsgm4uh51oceclhdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZkBHX0phSeCRzknG1e_czN-gkguwNWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458739783013-119nmv3ci592kj1hsgm4uh51oceclhdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458739783013:android:bf568047e5df304bfafd8c",
+        "android_client_info": {
+          "package_name": "in.cocomo.firestoredsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458739783013-boctggdu2afaihthmc0pij9hhvufiugu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cocomo.firestoredsc",
+            "certificate_hash": "defec49ef5dc3919afac6ab6ac25a94b6b4f383e"
+          }
+        },
+        {
+          "client_id": "458739783013-119nmv3ci592kj1hsgm4uh51oceclhdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZkBHX0phSeCRzknG1e_czN-gkguwNWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458739783013-119nmv3ci592kj1hsgm4uh51oceclhdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
